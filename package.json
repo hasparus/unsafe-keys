@@ -5,6 +5,10 @@
   "main": "dist/index.js",
   "license": "MIT",
   "author": "Piotr Monwid-Olechnowicz <hasparus@gmail.com> (https://haspar.us/)",
+  "repository": {
+    "type": "git",
+    "url": "github:hasparus/unsafe-keys"
+  },
   "scripts": {
     "build": "tsup src/index.ts --dts --minify --format esm,cjs",
     "watch": "tsup src/index.ts --watch",
