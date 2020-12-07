@@ -2,10 +2,9 @@ name: Build, Test and Release
 
 on:
   push:
-    branches: [master]
   pull_request:
-    branches: [master]
-
+    types: [opened, reopened]
+      
 jobs:
   build-and-test:
     runs-on: ubuntu-latest
