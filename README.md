@@ -1,4 +1,4 @@
-I published it, because I needed this function in few repositories at once, and figuring "where to put it" was too much effort.
+I published it because I needed this function in few repositories at once, and figuring "where to put it" was too much effort.
 
 There are some interesting things that could be done in this library, though.
 
